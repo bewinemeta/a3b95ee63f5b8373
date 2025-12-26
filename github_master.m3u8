@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1470x1074
+https://raw.githubusercontent.com/bewinemeta/a3b95ee63f5b8373/refs/heads/master/1074p/github_playlist_1074p.m3u8?_cb=1766710954
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=1280x720
+https://raw.githubusercontent.com/bewinemeta/a3b95ee63f5b8373/refs/heads/master/720p/github_playlist_720p.m3u8?_cb=1766710954
